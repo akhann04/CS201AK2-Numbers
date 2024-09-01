@@ -1,7 +1,10 @@
 //NAME: Aleeza Khan     
 //PROGRAM: PGM2
 //DATE: August 29,24 
-//DESCRIPTION:
+//DESCRIPTION:The point of this code is to allow the user to enter 4 number and then the computer will generate all the numbers first from ascending order
+//and then descending order and then it would find the average of all four numbers after that is finished
+//it will ask the user if they would like to go again if they type y the program will run again if they type 
+//no the program will end. 
 
 
 
